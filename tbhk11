@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial TBHK project commit"
+git remote add origin https://github.com/BartKirikou/tbhk.git
+git push -u origin main
